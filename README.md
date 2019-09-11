@@ -1,18 +1,34 @@
-## Welcome to GitHub Pages
+# Personal Details
+
+-Name Vincent Singzon
+
+-Student Number 
+
+-Email Address singzon111@gmail.com
+
+-Basic Background 
+My name is Vincent and my nationality is Australian and my background is Filipinob born in Saudi Arabia and i only speak English at home My education to date includes completion of my Year 12 School Cetrificate at Patrician Brothers Blacktown and a Cert III course in Networking at Blacktown Tafe. My Hobbies include things like Gaming, drawing, going to the gym. I have also travelled to countries  USA, Japan and Europe, China, Vietnam. 
+
+
+# Interest in IT
+
+My interest in IT is in Cyber Security i have been told it's job that's in high demand. My interest in IT started because i have always had a fascination with Technology like computers and my hobbies like gaming made me want to work in IT related field, also my dad works as a programmer and i have always wanted to be like him working in IT.
+
+I chose to come to RMIT as i was browing online courses to study in IT Cyber Security and i found an advertisement in open university about an online course at RMIT University. I expect to learn many different things related to IT such as programming, networking, cybersecurity and gain experience working.
+
+
+
+Syntax highlighted code block
+
+# Ideal Job
+
 
 ![job](Capture.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The position is 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted

@@ -25,11 +25,18 @@ Syntax highlighted code block
 
 ![job](Capture.PNG)
 
-The position is 
+The position is IT Security Analyst to work on a full time basis working in a fast pased enviroment with commercial and opensource technologies and contributing to new ideas and solutions managing and trouble shooting security related technical issues, managing security of office technology including workstations, firewall switches and wifi and other things. 
+
+The position is highly appealing to me as it has a high salary plus super, a state of the art office in the CBD with the offices fitted with the latest technology and tools. Flexible working hours and working at home, friday massages and social events on Friday amd chance to win $500 per month.
+
+The skills that would be needed is experience with Cyber Security, ability to communicate effectively to diverse stakeholder group,SIEM experience, problem solving and analytical skills and Windows/Linux secuirty experience, Industry Certfications like CISM, CEh and GSEC and a Bachelors degree in Information Technology.
+
+The skills i currently have right now is studying a Bachelors degree, the ability to communicate and ability to manage time effectively.
+
+My plant to obtain these skills will be studying Information Technology and Cyber Security, meeting people who work in this industry making connections with them at Linkdin, studying, and going to confrences
 
 
-
-### Header 3
+# Personal Profile
 
 - Bulleted
 - List

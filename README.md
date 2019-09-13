@@ -38,10 +38,14 @@ My plant to obtain these skills will be studying Information Technology and Cybe
 
 # Personal Profile
 
+![job](learner.PNG)
+Learner test results
 
 
+![job](myers.PNG)
+Myers-Briggs Type Indicator (MBTI) test results
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 

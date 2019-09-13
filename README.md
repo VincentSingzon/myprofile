@@ -37,7 +37,7 @@ My plant to obtain these skills will be studying Information Technology and Cybe
 
 
 # Personal Profile
-![learnertest](learnertest.PNG)
+![](learner_test.PNG)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

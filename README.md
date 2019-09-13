@@ -39,17 +39,29 @@ My plant to obtain these skills will be studying Information Technology and Cybe
 # Personal Profile
 
 ![job](learner.PNG)
+
 Learner test results
 
 
 ![job](myers.PNG)
+
 Myers-Briggs Type Indicator (MBTI) test results
 
+![job](onlinetest.PNG)
+
+The results of the online test of my chosing
+
+- The results mean i'm someone who tries to think logically and try to solve problems by using a hands on approach to things such as drawings or someone desmonstrating something to me. And having a habit of walking around thinking of things and imagining scenarios in my head. Often taking frequent breaks walking around when studying or working. Also being a bit introverted and trying to do tasks on my own.
+
+-The results influences my behaviour when working in a team as i often tend to imagine things whenever we have a discussion about things and makes it hard for me to keep track of the task hand, also trying to come up with logical ideas that may help them when were having a problem that needs solving.
+
+-I'll take it into account by trying to focus on my strenghs and trying to be part of a group and trying to tasks which i'm more best suited trying to do tasks which i'm more comfortanble with doing.
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VincentSingzon/myprofile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Project Idea
+
+
 
 ### Support or Contact
 

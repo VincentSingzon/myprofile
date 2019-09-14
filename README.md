@@ -7,7 +7,7 @@
 -Email Address singzon111@gmail.com
 
 -Basic Background 
-My name is Vincent and my nationality is Australian and my background is Filipinob born in Saudi Arabia and i only speak English at home My education to date includes completion of my Year 12 School Cetrificate at Patrician Brothers Blacktown and a Cert III course in Networking at Blacktown Tafe. My Hobbies include things like Gaming, drawing, going to the gym. I have also travelled to countries  USA, Japan and Europe, China, Vietnam. 
+My name is Vincent and my nationality is Australian and my background is Filipinob born in Saudi Arabia and i only speak English at home. My education to date includes completion of my Year 12 School Cetrificate at Patrician Brothers Blacktown and a Cert III course in Networking at Blacktown Tafe. My Hobbies include things like Gaming, drawing, going to the gym. I have also travelled to countries  USA, Japan and Europe, China, Vietnam. 
 
 
 # Interest in IT
@@ -16,9 +16,6 @@ My interest in IT is in Cyber Security i have been told it's job that's in high 
 
 I chose to come to RMIT as i was browing online courses to study in IT Cyber Security and i found an advertisement in open university about an online course at RMIT University. I expect to learn many different things related to IT such as programming, networking, cybersecurity and gain experience working.
 
-
-
-Syntax highlighted code block
 
 # Ideal Job
 
@@ -72,4 +69,12 @@ The game would feature many staples of Roguelike games such as permadeath, hardc
 
 ## Tools and Technologies 
 
-The software that would be need to make this project would be things such as a powerful computer that would be used to do things such as rendering and creating assests, a comfortable chair, some books and or website links on how to program and use game engines such as Unity. The use of open source tool Unity would be used as it is available for free has powerful tools that are fairly easy to use and has been used in other games that have been well recived and are well known.
+The software that would be need to make this project would be things such as a powerful computer that would be used to do things such as rendering and creating assests, a comfortable chair, some books and or website links on how to program and use game engines such as Unity. The use of open source tool Unity would be used as it is well known and available for free has powerful tools that are fairly easy to use and has been used in other games that have been well recived and are well known. Other software needed would be audio software which will be used to impliment sounds and music. 
+
+## Skills Required
+
+The skills that i would require for my project would be skills such as the programming knowledge of languages such as c#, java or c++, knowledge of tools such as Blender or other programs creating game assests and animating characters. knowledge of audio like making music, voice acting or creating ambient sounds and sound effects. The skills would require me to study a lot to achieve these skills and would require me to have help with sound design or art if the project is too difficult.
+
+## Outcome 
+
+The project if successful would have me gain more experience and knowledge with the use of the tools and languages that i would be using for this project and possibly generate interest in creating a sequel or other gaming related projects.

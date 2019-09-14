@@ -53,16 +53,23 @@ The results of the online test of my chosing
 
 - The results mean i'm someone who tries to think logically and try to solve problems by using a hands on approach to things such as drawings or someone desmonstrating something to me. And having a habit of walking around thinking of things and imagining scenarios in my head. Often taking frequent breaks walking around when studying or working. Also being a bit introverted and trying to do tasks on my own.
 
--The results influences my behaviour when working in a team as i often tend to imagine things whenever we have a discussion about things and makes it hard for me to keep track of the task hand, also trying to come up with logical ideas that may help them when were having a problem that needs solving.
+- The results influences my behaviour when working in a team as i often tend to imagine things whenever we have a discussion about things and makes it hard for me to keep track of the task hand, also trying to come up with logical ideas that may help them when were having a problem that needs solving.
 
--I'll take it into account by trying to focus on my strenghs and trying to be part of a group and trying to tasks which i'm more best suited trying to do tasks which i'm more comfortanble with doing.
+- I'll take it into account by trying to focus on my strenghs and trying to be part of a group and trying to tasks which i'm more best suited trying to do tasks which i'm more comfortanble with doing.
 
 
 
 # Project Idea
 
+## Overview
+My idea of a project would be the development of a videogame using engine tools like Unity or Unreal engine as videogames have always been a passion of mine every since i was a kid. The project would be a roguelike videogame where you play as an explorer entering a abandoned world where you have to survive and find out what happened to the place. There would be weapons and vehicles that the player could utlize and items that the player could craft in order to survive. The game would also have two difficulty modes hardcore and casual, with hardcore only being able to have one life losing all items and progress and having to restart the game again after death and casual being able to retain items and progress after death.
 
+## Motivation
+I think the game is important to me as wanting to make videogames has been a passion of mine and i want other to experience that same passion i have of gaming to others. The game i would be making would be considered enjoyable to others as far as indie games are considered roguelikes are a popular genre but this game would also be able to accomidate more casual players who play mostly for story and would not like to have lose progress after hours of playing. Catering to both hardcore and casual gamers would be useful for generating revenue that would otherwise not be made had it catered for only a niche market.
 
-### Support or Contact
+## Description 
+The game would feature many staples of Roguelike games such as permadeath, hardcore difficulty, secrets, and items that can be bought from venders in this case vending machines or robots. The game would also have more easy options for more casual players that don't want to do things like grind for items, level up and instead would prefer to enjoy the story. Another feature that the game would also have is multiplayer with options to create private servers, and having tools to modify or create maps of there own. The product will not have any levels in the traditional sense but randomly generated areas that changes with each playthrough so items that could appear in hard to reach areas in one game could be in areas which are close to the start of the game or sometimes having harder enemies spawn. The game also would have a day and night cycle with more tougher enemies appearing at night and more easier enemies during the day but in areas which are dimly lit such as caves and or underground shelters, tunnels spawning enemies such as bosses and spawning very rare items that can prove to be a challenge and make players choose to decide weather they would take the risk for an item that could help them later on or not do and do challenges which are less riskier but also less rewarding to them. And there being planned features that i would also consider to add in future later updates. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Tools and Technologies 
+
+The software that would be need to make this project would be things such as a powerful computer that would be used to do things such as rendering and creating assests, a comfortable chair, some books and or website links on how to program and use game engines such as Unity. The use of open source tool Unity would be used as it is available for free has powerful tools that are fairly easy to use and has been used in other games that have been well recived and are well known.

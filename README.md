@@ -69,6 +69,7 @@ The game would feature many staples of Roguelike games such as permadeath, hardc
 
 ## Tools and Technologies 
 
+website
 The software that would be need to make this project would be things such as a powerful computer that would be used to do things such as rendering and creating assests, a comfortable chair, some books and or website links on how to program and use game engines such as Unity. The use of open source tool Unity would be used as it is well known and available for free has powerful tools that are fairly easy to use and has been used in other games that have been well recived and are well known. Other software needed would be audio software which will be used to impliment sounds and music. 
 
 ## Skills Required
@@ -78,3 +79,5 @@ The skills that i would require for my project would be skills such as the progr
 ## Outcome 
 
 The project if successful would have me gain more experience and knowledge with the use of the tools and languages that i would be using for this project and possibly generate interest in creating a sequel or other gaming related projects.
+
+ master

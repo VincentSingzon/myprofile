@@ -1,10 +1,10 @@
 # Personal Details
 
--Name Vincent Singzon
+- Name Vincent Singzon
 
--Student Number 
+- Student Number S3818849
 
--Email Address singzon111@gmail.com
+- Email Address singzon111@gmail.com
 
 -Basic Background 
 My name is Vincent and my nationality is Australian and my background is Filipinob born in Saudi Arabia and i only speak English at home. My education to date includes completion of my Year 12 School Cetrificate at Patrician Brothers Blacktown and a Cert III course in Networking at Blacktown Tafe. My Hobbies include things like Gaming, drawing, going to the gym. I have also travelled to countries  USA, Japan and Europe, China, Vietnam. 
